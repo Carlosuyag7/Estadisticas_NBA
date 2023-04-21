@@ -1,0 +1,141 @@
+Years;NAME;Pos;TEAM;SALARY
+2017;LeBron James;SF;Cleveland Cavaliers;$30,963,450
+2017;Kevin Durant;PF;Golden State Warriors;$26,540,100
+2017;James Harden;SG;Houston Rockets;$26,540,100
+2017;Mike Conley;PG;Memphis Grizzlies;$26,540,100
+2017;Russell Westbrook;PG;Oklahoma City Thunder;$26,540,100
+2017;DeMar DeRozan;SF;Toronto Raptors;$26,540,100
+2017;Al Horford;C;Boston Celtics;$26,540,100
+2017;Dirk Nowitzki;F;Dallas Mavericks;$25,000,000
+2017;Carmelo Anthony;PF;New York Knicks;$24,559,380
+2017;Damian Lillard;PG;Portland Trail Blazers;$24,328,425
+2017;Chris Bosh;PF;Miami Heat;$23,741,060
+2017;Dwyane Wade;G;Chicago Bulls;$23,200,000
+2017;Dwight Howard;C;Atlanta Hawks;$23,180,275
+2017;Chris Paul;PG;LA Clippers;$22,868,827
+2017;Bradley Beal;SG;Washington Wizards;$22,116,750
+2017;Hassan Whiteside;C;Miami Heat;$22,116,750
+2017;Harrison Barnes;SF;Dallas Mavericks;$22,116,750
+2017;Anthony Davis;PF;New Orleans Pelicans;$22,116,750
+2017;Andre Drummond;C;Detroit Pistons;$22,116,750
+2017;Chandler Parsons;SF;Memphis Grizzlies;$22,116,750
+2018;Stephen Curry;PG;Golden State Warriors;$37,457,154
+2018;Blake Griffin;PF;Detroit Pistons;$32,088,932
+2018;Paul Millsap;PF;Denver Nuggets;$31,269,231
+2018;Kyle Lowry;PG;Toronto Raptors;$31,200,000
+2018;Gordon Hayward;SF;Boston Celtics;$29,727,900
+2018;Mike Conley;PG;Memphis Grizzlies;$28,530,608
+2018;Russell Westbrook;PG;Oklahoma City Thunder;$28,530,608
+2018;James Harden;SG;Houston Rockets;$28,299,399
+2018;DeMar DeRozan;SF;Toronto Raptors;$27,739,975
+2018;Al Horford;C;Boston Celtics;$27,734,406
+2018;Carmelo Anthony;PF;Oklahoma City Thunder;$26,243,760
+2018;Damian Lillard;PG;Portland Trail Blazers;$26,153,057
+2018;Otto Porter Jr.;SF;Washington Wizards;$26,011,913
+2018;Jrue Holiday;PG;New Orleans Pelicans;$25,686,667
+2018;Bradley Beal;SG;Washington Wizards;$25,434,263
+2018;Andre Drummond;C;Detroit Pistons;$25,434,263
+2018;Hassan Whiteside;C;Miami Heat;$25,434,262
+2018;Joel Embiid;C;Philadelphia 76ers;$25,250,000
+2018;Chris Paul;PG;Houston Rockets;$24,599,495
+2018;Giannis Antetokounmpo;PF;Milwaukee Bucks;$24,157,303
+2019;Stephen Curry;PG;Golden State Warriors;$37,457,154
+2019;Chris Paul;PG;Houston Rockets;$35,654,150
+2019;LeBron James;SF;Los Angeles Lakers;$35,654,150
+2019;Russell Westbrook;PG;Oklahoma City Thunder;$35,654,150
+2019;Blake Griffin;PF;Detroit Pistons;$32,088,932
+2019;Gordon Hayward;SF;Boston Celtics;$31,214,295
+2019;Kyle Lowry;PG;Toronto Raptors;$31,200,000
+2019;Paul George;F;Oklahoma City Thunder;$30,560,700
+2019;Mike Conley;PG;Memphis Grizzlies;$30,521,115
+2019;James Harden;SG;Houston Rockets;$30,421,854
+2019;Kevin Durant;PF;Golden State Warriors;$30,000,000
+2019;Paul Millsap;PF;Denver Nuggets;$29,230,769
+2019;Al Horford;C;Boston Celtics;$28,928,709
+2019;Damian Lillard;PG;Portland Trail Blazers;$27,977,689
+2019;DeMar DeRozan;SF;San Antonio Spurs;$27,739,975
+2019;Otto Porter Jr.;SF;Chicago Bulls;$26,011,913
+2019;Jrue Holiday;PG;New Orleans Pelicans;$25,976,111
+2019;CJ McCollum;SG;Portland Trail Blazers;$25,759,766
+2019;Joel Embiid;C;Philadelphia 76ers;$25,467,250
+2019;Andrew Wiggins;SF;Minnesota Timberwolves;$25,467,250
+2020;Stephen Curry;PG;Golden State Warriors;$40,231,758
+2020;Chris Paul;PG;Oklahoma City Thunder;$38,506,482
+2020;Russell Westbrook;PG;Houston Rockets;$38,506,482
+2020;Kevin Durant;PF;Phoenix Suns;$38,199,000
+2020;James Harden;SG;Houston Rockets;$38,199,000
+2020;John Wall;PG;Houston Rockets;$38,199,000
+2020;LeBron James;SF;Los Angeles Lakers;$37,436,858
+2020;Kyle Lowry;PG;Toronto Raptors;$34,996,296
+2020;Blake Griffin;PF;Detroit Pistons;$34,449,964
+2020;Tobias Harris;PF;Philadelphia 76ers;$32,742,000
+2020;Jimmy Butler;SF;Miami Heat;$32,742,000
+2020;Kawhi Leonard;SF;LA Clippers;$32,742,000
+2020;Klay Thompson;SG;Golden State Warriors;$32,742,000
+2020;Kemba Walker;PG;Boston Celtics;$32,742,000
+2020;Gordon Hayward;SF;Boston Celtics;$32,700,690
+2020;Mike Conley;PG;Utah Jazz;$32,511,624
+2020;Kyrie Irving;PG;Brooklyn Nets;$31,742,000
+2020;Khris Middleton;SF;Milwaukee Bucks;$30,603,448
+2020;Paul George;F;LA Clippers;$30,560,700
+2020;Paul Millsap;PF;Denver Nuggets;$30,350,000
+2021;Stephen Curry;PG;Golden State Warriors;$43,006,362
+2021;Chris Paul;PG;Phoenix Suns;$41,358,814
+2021;Russell Westbrook;PG;Washington Wizards;$41,358,814
+2021;James Harden;SG;Brooklyn Nets;$41,254,920
+2021;John Wall;PG;Houston Rockets;$41,254,920
+2021;Kevin Durant;PF;Brooklyn Nets;$40,108,950
+2021;LeBron James;SF;Los Angeles Lakers;$39,219,565
+2021;Paul George;F;LA Clippers;$35,450,412
+2021;Klay Thompson;SG;Golden State Warriors;$35,361,360
+2021;Mike Conley;PG;Utah Jazz;$34,502,130
+2021;Jimmy Butler;SF;Miami Heat;$34,379,100
+2021;Kawhi Leonard;SF;LA Clippers;$34,379,100
+2021;Kemba Walker;PG;Boston Celtics;$34,379,100
+2021;Tobias Harris;PF;Philadelphia 76ers;$34,358,850
+2021;Khris Middleton;SF;Milwaukee Bucks;$33,051,724
+2021;Anthony Davis;PF;Los Angeles Lakers;$32,742,000
+2021;Kyrie Irving;PG;Brooklyn Nets;$31,742,000
+2021;Damian Lillard;PG;Portland Trail Blazers;$31,626,953
+2021;Kevin Love;PF;Cleveland Cavaliers;$31,258,256
+2021;Pascal Siakam;PF;Toronto Raptors;$30,559,200
+2022;Stephen Curry;PG;Golden State Warriors;$45,780,966
+2022;James Harden;SG;Philadelphia 76ers;$44,310,840
+2022;John Wall;PG;Houston Rockets;$44,310,840
+2022;Russell Westbrook;PG;Los Angeles Lakers;$44,211,146
+2022;Kevin Durant;PF;Brooklyn Nets;$42,018,900
+2022;LeBron James;SF;Los Angeles Lakers;$41,180,544
+2022;Giannis Antetokounmpo;PF;Milwaukee Bucks;$39,344,970
+2022;Damian Lillard;PG;Portland Trail Blazers;$39,344,900
+2022;Kawhi Leonard;SF;LA Clippers;$39,344,900
+2022;Paul George;F;LA Clippers;$39,344,900
+2022;Klay Thompson;SG;Golden State Warriors;$37,980,720
+2022;Jimmy Butler;SF;Miami Heat;$36,016,200
+2022;Tobias Harris;PF;Philadelphia 76ers;$35,995,950
+2022;Khris Middleton;SF;Milwaukee Bucks;$35,500,000
+2022;Anthony Davis;PF;Los Angeles Lakers;$35,361,360
+2022;Rudy Gobert;C;Utah Jazz;$35,344,828
+2022;Kyrie Irving;PG;Brooklyn Nets;$35,328,700
+2022;Bradley Beal;SG;Washington Wizards;$33,724,200
+2022;Pascal Siakam;PF;Toronto Raptors;$33,003,936
+2022;Ben Simmons;PG;Brooklyn Nets;$33,003,936
+2023;Stephen Curry;PG;Golden State Warriors;$48,070,014
+2023;LeBron James;SF;Los Angeles Lakers;$44,474,988
+2023;Kevin Durant;PF;Phoenix Suns;$44,119,845
+2023;Bradley Beal;SG;Washington Wizards;$43,279,250
+2023;Damian Lillard;PG;Portland Trail Blazers;$42,492,492
+2023;Giannis Antetokounmpo;PF;Milwaukee Bucks;$42,492,492
+2023;Kawhi Leonard;SF;LA Clippers;$42,492,492
+2023;Paul George;F;LA Clippers;$42,492,492
+2023;Klay Thompson;SG;Golden State Warriors;$40,600,080
+2023;Kyrie Irving;PG;Dallas Mavericks;$38,917,057
+2023;Rudy Gobert;C;Minnesota Timberwolves;$38,172,414
+2023;Anthony Davis;PF;Los Angeles Lakers;$37,980,720
+2023;Khris Middleton;SF;Milwaukee Bucks;$37,948,276
+2023;Jimmy Butler;SF;Miami Heat;$37,653,300
+2023;Tobias Harris;PF;Philadelphia 76ers;$37,633,050
+2023;Zach LaVine;SG;Chicago Bulls;$37,096,500
+2023;Luka Doncic;PG;Dallas Mavericks;$37,095,000
+2023;Trae Young;PG;Atlanta Hawks;$37,095,000
+2023;Pascal Siakam;PF;Toronto Raptors;$35,448,672
+2023;Ben Simmons;PG;Brooklyn Nets;$35,448,672
